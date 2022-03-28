@@ -1,5 +1,3 @@
-
-
 //Current day and time
 var today = moment();
 $("#currentDay").text(today.format("dddd, MMM Do, YYYY"));
