@@ -10,7 +10,7 @@ console.log("The current hour is ", currentHour);
 
 var task9AM = $("#9");
 var task10AM = $("#10");
-var task11AM = $("#11k");
+var task11AM = $("#11");
 var task12PM = $("#12");
 var task1PM = $("#13");
 var task2PM = $("#14");
